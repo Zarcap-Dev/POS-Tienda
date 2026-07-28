@@ -154,4 +154,6 @@ Sistema de control de efectivo por turno de trabajo.
 * **Log de eventos**: historial permanente e inalterable de inicios de sesión, anulaciones, descuadres y exportaciones.
 * **Base de datos cifrada**: SQLCipher AES-256 — los datos del negocio no pueden copiarse ni leerse sin la clave.
 
+---
+
 -Desarrollado por [Zarcap]-
