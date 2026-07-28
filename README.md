@@ -45,6 +45,9 @@ src/main/resources/
 
 ![Apertura de Caja](capturas/aperturacaja.jpg)
 ![Punto de Venta](capturas/caja.jpg)
+![Historial y Detalle de Ventas](capturas/historialventas1.jpg)
+![Historial y Detalle de Ventas](capturas/historialventas2.jpg)
+![Historial y Detalle de Ventas](capturas/historialventas3.jpg)
 ![Fiados](capturas/fiados1.jpg)
 ![Fiados](capturas/fiados2.jpg)
 ![Fiados](capturas/fiados3.jpg)
@@ -55,7 +58,6 @@ src/main/resources/
 ![Entrada de Mercadería](capturas/entradamerc1.jpg)
 ![Entrada de Mercadería](capturas/entradamerc2.jpg)
 ![Reportes](capturas/reportes.jpg)
-![Historial y Detalle de Ventas](capturas/detalleventas.jpg)
 ![Cierre de Caja](capturas/cierrecaja.jpg)
 ![Usuarios](capturas/usuarios1.jpg)
 ![Usuarios](capturas/usuarios2.jpg)
@@ -154,4 +156,6 @@ Sistema de control de efectivo por turno de trabajo.
 * **Log de eventos**: historial permanente e inalterable de inicios de sesión, anulaciones, descuadres y exportaciones.
 * **Base de datos cifrada**: SQLCipher AES-256 — los datos del negocio no pueden copiarse ni leerse sin la clave.
 
--Desarrollado por [Zarcap]-
+---
+
+_-Desarrollado por [Zarcap]-_
